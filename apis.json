@@ -1,0 +1,52 @@
+{
+    "name": "SwipeIdentity",
+    "description": "Kumpulan berita dan informasi terbaru terkait perkembangan teknologi di Indonesia maupun luar negeri. Swift Identity selalu berusaha menampilkan artikel yang informatif.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1905-swipeidentity.jpg",
+    "tags": [
+        "applications",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/swipeidentity\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SwipeIdentity",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1905-swipeidentity.jpg",
+            "humanURL": "http:\/\/developer.swiftidentity.com\/documentation",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/swipeidentity-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/swipeidentity-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/swift-identity"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/swift-identity"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SwiftIdentity"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.swiftidentity.com\/documentation"
+        }
+    ]
+}
